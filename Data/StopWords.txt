@@ -1,4 +1,6 @@
 i
+i'm
+im
 me
 my
 myself
@@ -125,3 +127,4 @@ just
 don
 should
 now
+us
